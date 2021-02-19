@@ -14,3 +14,5 @@ Once open:
 - Press submit button
 - Run SQL Query in database and refresh owned_vehicles table
  
+# Future Changes
+- Change vehicle allocation and retrieval of model to use dictionary and for loops
